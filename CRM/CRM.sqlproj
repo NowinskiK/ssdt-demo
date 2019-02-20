@@ -73,6 +73,22 @@
     <Build Include="dbo\Stored Procedures\RunPostProcessingJob.sql" />
   </ItemGroup>
   <ItemGroup>
+    <ArtifactReference Include="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\Microsoft\SQLDB\Extensions\SqlServer\130\SqlSchemas\msdb.dacpac">
+      <HintPath>$(DacPacRootPath)\Extensions\Microsoft\SQLDB\Extensions\SqlServer\130\SqlSchemas\msdb.dacpac</HintPath>
+      <SuppressMissingDependenciesErrors>False</SuppressMissingDependenciesErrors>
+      <DatabaseVariableLiteralValue>msdb</DatabaseVariableLiteralValue>
+    </ArtifactReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SecondDatabase\SecondDatabase.sqlproj">
+      <Name>SecondDatabase</Name>
+      <Project>{d312d41b-5738-4efa-9a93-f236392a7232}</Project>
+      <Private>True</Private>
+      <SuppressMissingDependenciesErrors>False</SuppressMissingDependenciesErrors>
+      <DatabaseSqlCmdVariable>SecondDatabase</DatabaseSqlCmdVariable>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
     <SqlCmdVariable Include="SecondDatabase">
       <DefaultValue>SecondDatabase</DefaultValue>
       <Value>$(SqlCmdVar__1)</Value>
