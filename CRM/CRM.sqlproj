@@ -94,4 +94,7 @@
       <Value>$(SqlCmdVar__1)</Value>
     </SqlCmdVariable>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Publish\local.CRM.publish.xml" />
+  </ItemGroup>
 </Project>
