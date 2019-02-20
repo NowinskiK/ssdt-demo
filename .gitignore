@@ -1,0 +1,5 @@
+*.dbmdl
+*.user
+bin
+obj
+*.suo
