@@ -60,9 +60,24 @@
     <Folder Include="audit" />
     <Folder Include="audit\Tables" />
     <Folder Include="Security" />
+    <Folder Include="Deployment" />
+    <Folder Include="Publish" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Security\audit.sql" />
     <Build Include="audit\Tables\Customer.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <SqlCmdVariable Include="SvcWebSite">
+      <DefaultValue>svc_company_website</DefaultValue>
+      <Value>$(SqlCmdVar__1)</Value>
+    </SqlCmdVariable>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Deployment\CreateUsers.sql" />
+    <None Include="Publish\local.SecondDatabase.publish.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Deployment\PostDeployment.sql" />
   </ItemGroup>
 </Project>
