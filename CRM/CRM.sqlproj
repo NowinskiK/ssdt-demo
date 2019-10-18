@@ -96,5 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Publish\local.CRM.publish.xml" />
+    <None Include="CRM.publish.xml" />
+    <None Include="CRM2.publish.xml" />
   </ItemGroup>
 </Project>
