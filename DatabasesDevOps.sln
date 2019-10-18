@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CRM", "CRM\CRM.sqlproj", "{
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SecondDatabase", "SecondDatabase\SecondDatabase.sqlproj", "{D312D41B-5738-4EFA-9A93-F236392A7232}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AdventureWorks2014", "AdventureWorks2014\AdventureWorks2014.sqlproj", "{992C1F98-44D8-4D47-8FFC-7E46C80085FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,12 @@ Global
 		{D312D41B-5738-4EFA-9A93-F236392A7232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D312D41B-5738-4EFA-9A93-F236392A7232}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D312D41B-5738-4EFA-9A93-F236392A7232}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{992C1F98-44D8-4D47-8FFC-7E46C80085FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992C1F98-44D8-4D47-8FFC-7E46C80085FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992C1F98-44D8-4D47-8FFC-7E46C80085FF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{992C1F98-44D8-4D47-8FFC-7E46C80085FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992C1F98-44D8-4D47-8FFC-7E46C80085FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992C1F98-44D8-4D47-8FFC-7E46C80085FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,82 @@
+18/10/2019 20:52:05	This log contains information about the import schema operation into project 'AdventureWorks2014' on computer 'DEV19' by user 'Administrator'.
+18/10/2019 20:52:05	Import of database schema has started.
+18/10/2019 20:52:09	Gathering database credentials
+18/10/2019 20:52:09	Gathering database options
+18/10/2019 20:52:09	Gathering generic database scoped configuration option
+18/10/2019 20:52:09	Gathering users
+18/10/2019 20:52:09	Gathering roles
+18/10/2019 20:52:09	Gathering application roles
+18/10/2019 20:52:09	Gathering role memberships
+18/10/2019 20:52:09	Gathering filegroups
+18/10/2019 20:52:09	Gathering full-text catalogs
+18/10/2019 20:52:09	Gathering assemblies
+18/10/2019 20:52:09	Gathering certificates
+18/10/2019 20:52:09	Gathering asymmetric keys
+18/10/2019 20:52:09	Gathering symmetric keys
+18/10/2019 20:52:09	Gathering encrypted symmetric keys
+18/10/2019 20:52:09	Gathering schemas
+18/10/2019 20:52:09	Gathering XML schema collections
+18/10/2019 20:52:09	Gathering user-defined data types
+18/10/2019 20:52:09	Gathering user-defined types
+18/10/2019 20:52:09	Gathering table types
+18/10/2019 20:52:09	Gathering unique keys for table types
+18/10/2019 20:52:09	Gathering primary keys for table types
+18/10/2019 20:52:09	Gathering indexes for table types
+18/10/2019 20:52:10	Gathering check constraints for table types
+18/10/2019 20:52:10	Gathering default constraints for table types
+18/10/2019 20:52:10	Gathering partition functions
+18/10/2019 20:52:10	Gathering partition schemes
+18/10/2019 20:52:10	Gathering functions
+18/10/2019 20:52:10	Gathering encrypted functions
+18/10/2019 20:52:10	Gathering aggregates
+18/10/2019 20:52:10	Gathering procedures
+18/10/2019 20:52:10	Gathering encrypted procedures
+18/10/2019 20:52:10	Gathering tables
+18/10/2019 20:52:10	Gathering primary keys
+18/10/2019 20:52:10	Gathering unique constraints
+18/10/2019 20:52:10	Gathering foreign keys
+18/10/2019 20:52:10	Gathering default constraints
+18/10/2019 20:52:10	Gathering check constraints
+18/10/2019 20:52:10	Gathering views
+18/10/2019 20:52:10	Gathering encrypted views
+18/10/2019 20:52:10	Gathering indexes
+18/10/2019 20:52:10	Gathering statistics
+18/10/2019 20:52:10	Gathering full-text index stoplists
+18/10/2019 20:52:10	Gathering search property lists
+18/10/2019 20:52:10	Gathering search properties
+18/10/2019 20:52:10	Gathering full-text indexes
+18/10/2019 20:52:10	Gathering column store indexes
+18/10/2019 20:52:10	Gathering spatial indexes
+18/10/2019 20:52:10	Gathering XML indexes
+18/10/2019 20:52:10	Gathering Selective XML indexes
+18/10/2019 20:52:10	Gathering encrypted triggers
+18/10/2019 20:52:10	Gathering triggers
+18/10/2019 20:52:10	Gathering encrypted and clr ddl triggers
+18/10/2019 20:52:10	Gathering ddl triggers
+18/10/2019 20:52:10	Gathering synonyms
+18/10/2019 20:52:10	Gathering defaults
+18/10/2019 20:52:10	Gathering data constraint uddt bindings
+18/10/2019 20:52:10	Gathering rules
+18/10/2019 20:52:10	Gathering data constraint uddt bindings
+18/10/2019 20:52:10	Gathering message types
+18/10/2019 20:52:10	Gathering queues
+18/10/2019 20:52:10	Gathering contracts
+18/10/2019 20:52:10	Gathering services
+18/10/2019 20:52:10	Gathering event notifications
+18/10/2019 20:52:10	Gathering remote service bindings
+18/10/2019 20:52:10	Gathering broker priorities
+18/10/2019 20:52:10	Gathering signatures
+18/10/2019 20:52:10	Gathering data compression options
+18/10/2019 20:52:10	Gathering sequence types
+18/10/2019 20:52:10	Gathering security policies
+18/10/2019 20:52:10	Gather column encryption keys
+18/10/2019 20:52:10	Gathering column master keys
+18/10/2019 20:52:10	Gathering external data sources
+18/10/2019 20:52:10	Gathering external file formats
+18/10/2019 20:52:10	Gathering external tables
+18/10/2019 20:52:10	Gathering extended properties
+18/10/2019 20:52:12	Scanning project for duplicate elements
+18/10/2019 20:52:12	Finished duplicate element processing
+18/10/2019 20:53:08	Finished importing database.
+18/10/2019 20:53:08	A summary of the import was saved to the following location: X:\!WORK\GitHub\NowinskiK\ssdt-demo\AdventureWorks2014\Import Schema Logs\AdventureWorks2014_20191018075205.log
+18/10/2019 20:53:08	Click Finish to continue...
