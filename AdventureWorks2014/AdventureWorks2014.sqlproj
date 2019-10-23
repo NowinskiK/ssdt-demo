@@ -230,6 +230,7 @@
     <Build Include="Data\Person.PhoneNumberType.sql" />
     <Build Include="Security\data.sql" />
     <Build Include="Data\!PopulateAll.sql" />
+    <None Include="Data\Person.PhoneNumberType.inapt.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Deployment\Script.PostDeployment.sql" />
